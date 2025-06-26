@@ -1,0 +1,55 @@
+{
+  "conditions": [
+    {
+      "nom": "Thyroïde",
+      "imagesrc": "thyroide.jpeg",
+      "symptômes": [
+        "Fatigue",
+        "Prise ou perte de poids",
+        "Peau sèche",
+        "Faiblesse musculaire",
+        "Règles menstruelles irrégulières"
+      ],
+      "prévention": [
+        "Mangez équilibré",
+        "Faites de l'exercice régulièrement",
+        "Faites des examens réguliers"
+      ],
+      "traitement": "Des médicaments comme la lévothyroxine peuvent être prescrits par un médecin."
+    },
+    {
+      "nom": "Diabète",
+      "imagesrc": "diabeties.jpg",
+      "symptômes": [
+        "Mictions fréquentes",
+        "Soif accrue",
+        "Vision trouble",
+        "Fatigue",
+        "Guérison lente des coupures ou des plaies"
+      ],
+      "prévention": [
+        "Maintenir un poids santé",
+        "Suivez une alimentation équilibrée",
+        "Exercice régulier"
+      ],
+      "traitement": "La prise en charge comprend des médicaments, une insulinothérapie et des changements de mode de vie."
+    },
+    {
+      "nom": "Hypertension artérielle",
+      "imagesrc": "pression_sanguine.jpg",
+      "symptômes": [
+        "Maux de tête",
+        "Essoufflement",
+        "Douleur thoracique",
+        "Vertiges",
+        "Vision floue ou double"
+      ],
+      "prévention": [
+        "Réduire la consommation de sel",
+        "Faites de l'exercice régulièrement",
+        "Maintenir un poids santé"
+      ],
+      "traitement": "Des médicaments comme les inhibiteurs de l'ECA ou les diurétiques peuvent être prescrits."
+    }
+  ]
+}
